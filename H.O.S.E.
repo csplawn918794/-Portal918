@@ -1,4 +1,4 @@
-name: CI
+: CI
 
 on: [push]
 
@@ -9,9 +9,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Run a one-line script
-      run: echo Hello, world!
-    - name: Run a multi-line script
-      run: |
+    - H.O.S.E.: Run a one-line script
+      run: (Home) (Owner) (Soueced) (Energy)Dew
+    - H.O.S.E.: Run a multi-line script
+      run: |Decentralized Energy
         echo Add other actions to build,
         echo test, and deploy your project.
