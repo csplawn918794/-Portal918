@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - H.O.S.E.: Run a one-line script
-      run: (Home) (Owner) (Soueced) (Energy)Dew
+      run: (Home) (Owner) (Soueced) (Energy)
     - H.O.S.E.: Run a multi-line script
       run: |Decentralized Energy
         echo Add other actions to build,
